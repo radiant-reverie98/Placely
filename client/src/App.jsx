@@ -1,10 +1,12 @@
 
+import LandingPage from "./pages/LandingPage"
+
 function App() {
   
 
   return (
     <>
-      <h1 className="font-bold text-[100px]">Placely</h1>
+      <LandingPage/>
     </>
   )
 }
